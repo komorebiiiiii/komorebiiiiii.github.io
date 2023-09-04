@@ -1,20 +1,22 @@
 ---
 layout: default
 ---
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+<!-- [Link to another page](./another-page.html). -->
+<!-- There should be whitespace between paragraphs. -->
+<!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
+爱好踢足球打游戏 但意外的不怎么喜欢看比赛
+# 目前来看
+  很意外的会一点点unity和一点点前端和一点点c++一点点c++++
+  其实这些东西都是当时很想学但是最后没能学好的东西
+  现在看来可能是生活作息和习惯问题导致的吧
+# 展望
+  希望放假回家能像在学校里一样不摆烂
+  麻麻滴
+# Loading......
+<!-- This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. -->
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -119,5 +121,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+The final element. -->
 ```
