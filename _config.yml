@@ -36,7 +36,7 @@ menu:
   # index
   - title: 首页
     icon: home
-    url: /
+    url: https://github.com/komorebiiiiii/komorebiiiiii.github.io
   # archives
   - title: 归档
     icon: archive
