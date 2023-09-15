@@ -4,7 +4,7 @@ name: Pages
 on:
   push:
     branches:
-      - hexo-theme-cube-master # default branch
+      - main # default branch
 
 jobs:
   pages:
