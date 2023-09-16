@@ -25,7 +25,7 @@ position: 400
 
 # this variable is used to make the background header being fuzzy
 # if your do not need the filter blur on the top, make it empty, it means that: `blur: `
-blur: 5
+blur: 4
 
 
 # yeah, it is just to make your avatar rounded(true) or not(false)
