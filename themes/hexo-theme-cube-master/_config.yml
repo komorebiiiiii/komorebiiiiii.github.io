@@ -13,8 +13,8 @@ background: source/images/moon.png
 
 
 # the background image width and height (you can see your image file to get them)
-width: 2000
-height: 1414
+width: 3840
+height: 2160
 
 
 # this variable is used to locate your background
