@@ -59,16 +59,16 @@ sidebar:
       url: https://github.com/komorebiiiiii
       # icon can be url or path
       icon: http://cube-1252774894.cosgz.myqcloud.com/links/GitHub.png
-    - title: Coding
-      url: https://coding.net/u/SORA1
-      icon: http://cube-1252774894.cosgz.myqcloud.com/links/Coding.png
-    - title: SF社区
-      url: https://segmentfault.com/u/aonosora
-      icon: http://cube-1252774894.cosgz.myqcloud.com/links/SF.png
-    - title: 开发者头条
-      url: https://toutiao.io/u/148070
-      icon: http://cube-1252774894.cosgz.myqcloud.com/links/开发者头条.png
-  friend_links:
+    # - title: Coding
+    #   url: https://coding.net/u/SORA1
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/Coding.png
+    # - title: SF社区
+    #   url: https://segmentfault.com/u/aonosora
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/SF.png
+    # - title: 开发者头条
+    #   url: https://toutiao.io/u/148070
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/开发者头条.png
+  `friend_links:`
     - title: 罗大佬
       url: https://blog.micblo.com/
       # icon only url
@@ -116,7 +116,7 @@ music_setting:
 # url: http://www.yoururl.com/path/to/.mp3 or .lrc or ...
 # you'd better place your music and image, lrc to another site, and use url instead of path
 # if you don't want to use this widget, just make that `music: `
-music:
+`music: `
   - title: Dear friends
     author: TRIPLANE
     source: http://cube-1252774894.cosgz.myqcloud.com/music/source/TRIPLANE - Dear friends.mp3
