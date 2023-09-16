@@ -70,9 +70,9 @@ sidebar:
     #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/开发者头条.png
   Friend——Links: 
     - title: no
-       url: #https://blog.micblo.com/
+       url: https://blog.micblo.com/
       # icon only url
-      icon: #http://cube-1252774894.cosgz.myqcloud.com/friend_links/micblo.png
+      icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/micblo.png
     # - title: DIYgod
     #   url: https://www.anotherhome.net/
     #   icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/DIYgod.jpg
