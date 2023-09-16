@@ -54,7 +54,7 @@ menu:
     url: about-me
 
 sidebar:
-  Links:
+  links:
     - title: GitHub
       url: https://github.com/komorebiiiiii
       # icon can be url or path
@@ -68,16 +68,16 @@ sidebar:
     # - title: 开发者头条
     #   url: https://toutiao.io/u/148070
     #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/开发者头条.png
-  Friend——Links: 
-    - title: no
-       url: https://blog.micblo.com/
-      # icon only url
-      icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/micblo.png
+  friend_links: 
+    # - title: no
+    #    url: https://blog.micblo.com/
+    #   # icon only url
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/micblo.png
     # - title: DIYgod
     #   url: https://www.anotherhome.net/
-    #   icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/DIYgod.jpg
-    # - title: 咪西西の部落格
-    #   url: https://aonosora.com/
+      icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/DIYgod.jpg
+    - title: 咪西西の部落格
+      url: https://aonosora.com/
 
 # only path, refer to source/images
 friend_links: friend_links.jpg
