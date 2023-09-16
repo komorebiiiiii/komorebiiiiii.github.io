@@ -13,8 +13,8 @@ background: http://cube-1252774894.cosgz.myqcloud.com/background.png
 
 
 # the background image width and height (you can see your image file to get them)
-width: 3840
-height: 2160
+width: 2000
+height: 1414
 
 
 # this variable is used to locate your background
