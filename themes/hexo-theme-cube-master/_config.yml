@@ -2,14 +2,14 @@ theme: cube
 
 # background display for mobile, not for pc
 header:
-  background: https://mms1.baidu.com/it/u=716426088,2080584211&fm=253&app=138&f=JPEG?w=888&h=500
+  background: https://pic.imgdb.cn/item/650553b8661c6c8e540172c6.jpg
   # both pc and mobile required title(make it the same as your hexo site _config.yml's title)
   title: komorebiiiiii
 
 # background display for pc
 # you can use url or path relative
 # `background: background.png` refers to the path "source/images/background.png"
-background: https://mms1.baidu.com/it/u=716426088,2080584211&fm=253&app=138&f=JPEG?w=888&h=500
+background: https://pic.imgdb.cn/item/650553b8661c6c8e540172c6.jpg
 
 
 # the background image width and height (you can see your image file to get them)
