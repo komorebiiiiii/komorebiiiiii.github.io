@@ -2,14 +2,14 @@ theme: cube
 
 # background display for mobile, not for pc
 header:
-  background: http://cube-1252774894.cosgz.myqcloud.com/background.png
+  background: source/images/moon.png
   # both pc and mobile required title(make it the same as your hexo site _config.yml's title)
   title: komorebii
 
 # background display for pc
 # you can use url or path relative
 # `background: background.png` refers to the path "source/images/background.png"
-background: http://cube-1252774894.cosgz.myqcloud.com/background.png
+background: source/images/moon.png
 
 
 # the background image width and height (you can see your image file to get them)
@@ -56,28 +56,28 @@ menu:
 sidebar:
   links:
     - title: GitHub
-      url: https://github.com/ZEROKISEKI
+      url: https://github.com/komorebiiiiii
       # icon can be url or path
       icon: http://cube-1252774894.cosgz.myqcloud.com/links/GitHub.png
-    - title: Coding
-      url: https://coding.net/u/SORA1
-      icon: http://cube-1252774894.cosgz.myqcloud.com/links/Coding.png
-    - title: SF社区
-      url: https://segmentfault.com/u/aonosora
-      icon: http://cube-1252774894.cosgz.myqcloud.com/links/SF.png
-    - title: 开发者头条
-      url: https://toutiao.io/u/148070
-      icon: http://cube-1252774894.cosgz.myqcloud.com/links/开发者头条.png
+    # - title: Coding
+    #   url: https://coding.net/u/SORA1
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/Coding.png
+    # - title: SF社区
+    #   url: https://segmentfault.com/u/aonosora
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/SF.png
+    # - title: 开发者头条
+    #   url: https://toutiao.io/u/148070
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/开发者头条.png
   friend_links:
-    - title: 罗大佬
-      url: https://blog.micblo.com/
-      # icon only url
-      icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/micblo.png
-    - title: DIYgod
-      url: https://www.anotherhome.net/
-      icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/DIYgod.jpg
-    - title: 咪西西の部落格
-      url: https://aonosora.com/
+    # - title: 罗大佬
+    #   url: https://blog.micblo.com/
+    #   # icon only url
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/micblo.png
+    # - title: DIYgod
+    #   url: https://www.anotherhome.net/
+    #   icon: http://cube-1252774894.cosgz.myqcloud.com/friend_links/DIYgod.jpg
+    # - title: 咪西西の部落格
+    #   url: https://aonosora.com/
 
 # only path, refer to source/images
 friend_links: friend_links.jpg
@@ -117,21 +117,21 @@ music_setting:
 # you'd better place your music and image, lrc to another site, and use url instead of path
 # if you don't want to use this widget, just make that `music: `
 music:
-  - title: Dear friends
-    author: TRIPLANE
-    source: http://cube-1252774894.cosgz.myqcloud.com/music/source/TRIPLANE - Dear friends.mp3
-    lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/Dear friends - TRIPLANE.lrc
-    image: http://cube-1252774894.cosgz.myqcloud.com/music/image/TRIPLANE - Dear friends.jpg
-  - title: Butter-Fly
-    author: 和田光司
-    source: http://cube-1252774894.cosgz.myqcloud.com/music/source/和田光司 - Butter-Fly (ピアノヴァージョン).mp3
-    lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/Butter-Fly (ピアノヴァージョン) - 和田光司.lrc
-    image: http://cube-1252774894.cosgz.myqcloud.com/music/image/和田光司 - Butter-Fly (ピアノヴァージョン).jpg
-  - title: 宵闇花火
-    author: 葉月ゆら
-    source: http://cube-1252774894.cosgz.myqcloud.com/music/source/葉月ゆら - 宵闇花火.mp3
-    lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/宵闇花火 - 葉月ゆら.lrc
-    image: http://cube-1252774894.cosgz.myqcloud.com/music/image/葉月ゆら - 宵闇花火.jpg
+  # - title: Dear friends
+  #   author: TRIPLANE
+  #   source: http://cube-1252774894.cosgz.myqcloud.com/music/source/TRIPLANE - Dear friends.mp3
+  #   lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/Dear friends - TRIPLANE.lrc
+  #   image: http://cube-1252774894.cosgz.myqcloud.com/music/image/TRIPLANE - Dear friends.jpg
+  # - title: Butter-Fly
+  #   author: 和田光司
+  #   source: http://cube-1252774894.cosgz.myqcloud.com/music/source/和田光司 - Butter-Fly (ピアノヴァージョン).mp3
+  #   lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/Butter-Fly (ピアノヴァージョン) - 和田光司.lrc
+  #   image: http://cube-1252774894.cosgz.myqcloud.com/music/image/和田光司 - Butter-Fly (ピアノヴァージョン).jpg
+  # - title: 宵闇花火
+  #   author: 葉月ゆら
+  #   source: http://cube-1252774894.cosgz.myqcloud.com/music/source/葉月ゆら - 宵闇花火.mp3
+  #   lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/宵闇花火 - 葉月ゆら.lrc
+  #   image: http://cube-1252774894.cosgz.myqcloud.com/music/image/葉月ゆら - 宵闇花火.jpg
 
 # before using the comment
 # make use you know how to set the params
