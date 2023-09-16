@@ -2,14 +2,14 @@ theme: cube
 
 # background display for mobile, not for pc
 header:
-  background: source/images/moon.png
+  background: C:\Users\10793\Desktop\PJ\komorebiiiiii\komorebiiiiii.github.io\themes\hexo-theme-cube-master\source\images\moon.png
   # both pc and mobile required title(make it the same as your hexo site _config.yml's title)
-  title: komorebiiiiii
+  title: komorebii
 
 # background display for pc
 # you can use url or path relative
 # `background: background.png` refers to the path "source/images/background.png"
-background: source/images/moon.png
+background: C:\Users\10793\Desktop\PJ\komorebiiiiii\komorebiiiiii.github.io\themes\hexo-theme-cube-master\source\images\moon.png
 
 
 # the background image width and height (you can see your image file to get them)
