@@ -80,7 +80,7 @@ sidebar:
     #   url: https://aonosora.com/
 
 # only path, refer to source/images
-friend_links: friend_links.jpg
+# friend_links: friend_links.jpg
 
 widgets:
 - search
