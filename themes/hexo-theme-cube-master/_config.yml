@@ -54,7 +54,7 @@ menu:
     url: about-me
 
 sidebar:
-  联系:
+  Links:
     - title: GitHub
       url: https://github.com/komorebiiiiii
       # icon can be url or path
@@ -68,8 +68,8 @@ sidebar:
     # - title: 开发者头条
     #   url: https://toutiao.io/u/148070
     #   icon: http://cube-1252774894.cosgz.myqcloud.com/links/开发者头条.png
-  朋友: 
-    - title: 无
+  Friend——Links: 
+    - title: no
        url: #https://blog.micblo.com/
       # icon only url
       icon: #http://cube-1252774894.cosgz.myqcloud.com/friend_links/micblo.png
