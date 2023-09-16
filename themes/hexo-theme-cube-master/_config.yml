@@ -2,7 +2,7 @@ theme: cube
 
 # background display for mobile, not for pc
 header:
-  background: c:\Users\10793\Pictures\Camera Roll\moon-background-sfjsawse30m1nxv8.jpg
+  background: \source\images\moon.png
   # both pc and mobile required title(make it the same as your hexo site _config.yml's title)
   title: komorebiiiiii
 
@@ -10,7 +10,7 @@ header:
 # background display for pc
 # you can use url or path relative
 # `background: background.png` refers to the path "source/images/background.png"
-background: c:\Users\10793\Pictures\Camera Roll\moon-background-sfjsawse30m1nxv8.jpg
+background: \source\images\moon.png
 
 
 # the background image width and height (you can see your image file to get them)
